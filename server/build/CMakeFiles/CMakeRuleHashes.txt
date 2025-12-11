@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+427f8b6f499d21fdf70d4fe3593f01db .qt_plugins/Qt6_QmlPlugins_Imports_appserver.cmake
+bdfbecdfda1926f524a208ccca8ab636 CMakeFiles/appserver_autogen
+bdfbecdfda1926f524a208ccca8ab636 CMakeFiles/appserver_autogen_timestamp_deps
+bdfbecdfda1926f524a208ccca8ab636 CMakeFiles/appserver_qmlimportscan
+a72fb0580ec3c74b46c4a019bb286f22 appserver_autogen/timestamp

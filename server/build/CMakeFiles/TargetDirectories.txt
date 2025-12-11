@@ -1,0 +1,10 @@
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/appserver.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/appserver_qmlimportscan.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/edit_cache.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/rebuild_cache.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/list_install_components.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/install.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/install/local.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/install/strip.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/appserver_autogen_timestamp_deps.dir
+/home/theshizik3/Desktop/projects/flow/server/build/CMakeFiles/appserver_autogen.dir

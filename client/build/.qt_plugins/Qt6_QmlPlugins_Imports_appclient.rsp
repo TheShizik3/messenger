@@ -1,0 +1,14 @@
+-rootPath
+/home/theshizik3/Desktop/projects/flow/client
+-cmake-output
+-output-file
+/home/theshizik3/Desktop/projects/flow/client/build/.qt_plugins/Qt6_QmlPlugins_Imports_appclient.cmake
+-importPath
+/home/theshizik3/Desktop/projects/flow/client/build/client
+-importPath
+/home/theshizik3/Desktop/projects/flow/client/build
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/theshizik3/Desktop/projects/flow/client/build/.rcc/qmake_client.qrc
+/home/theshizik3/Desktop/projects/flow/client/build/.rcc/appclient_raw_qml_0.qrc

@@ -1,0 +1,8 @@
+module client
+typeinfo appclient.qmltypes
+prefer :/client/
+LogRegWindow 1.0 qml/LogRegWindow.qml
+Header 1.0 qml/Header.qml
+Chats 1.0 qml/Chats.qml
+Chat 1.0 qml/Chat.qml
+

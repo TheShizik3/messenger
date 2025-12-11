@@ -1,0 +1,39 @@
+{
+    "classes": [
+        {
+            "className": "MainHandler",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "qtext",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "qcontactName",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "sendMessage",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "closeWindow",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "MainHandler",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "main.h",
+    "outputRevision": 68
+}

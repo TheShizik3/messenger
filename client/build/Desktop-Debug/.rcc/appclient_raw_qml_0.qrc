@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/client/">
+    <file alias="main.qml">/home/theshizik3/Desktop/projects/flow/client/main.qml</file>
+  </qresource>
+</RCC>
+

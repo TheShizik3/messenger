@@ -1,0 +1,9 @@
+-rootPath
+/home/theshizik3/Desktop/projects/flow/server
+-cmake-output
+-output-file
+/home/theshizik3/Desktop/projects/flow/server/build/.qt_plugins/Qt6_QmlPlugins_Imports_appserver.cmake
+-importPath
+/home/theshizik3/Desktop/projects/flow/server/build
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml

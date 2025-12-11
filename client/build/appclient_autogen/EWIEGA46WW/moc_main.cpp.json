@@ -1,0 +1,37 @@
+{
+    "classes": [
+        {
+            "className": "MessageHandler",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "sendMessage",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "MessageHandler",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "text",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "messageSent",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "main.h",
+    "outputRevision": 68
+}

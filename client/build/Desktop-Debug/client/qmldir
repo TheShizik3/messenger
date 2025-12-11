@@ -1,0 +1,4 @@
+module client
+typeinfo appclient.qmltypes
+prefer :/client/
+

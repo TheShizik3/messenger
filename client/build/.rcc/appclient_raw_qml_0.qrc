@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/client/">
+    <file alias="qml/LogRegWindow.qml">/home/theshizik3/Desktop/projects/flow/client/qml/LogRegWindow.qml</file>
+    <file alias="qml/Header.qml">/home/theshizik3/Desktop/projects/flow/client/qml/Header.qml</file>
+    <file alias="qml/Chats.qml">/home/theshizik3/Desktop/projects/flow/client/qml/Chats.qml</file>
+    <file alias="qml/Chat.qml">/home/theshizik3/Desktop/projects/flow/client/qml/Chat.qml</file>
+    <file alias="qml/main.qml">/home/theshizik3/Desktop/projects/flow/client/qml/main.qml</file>
+  </qresource>
+</RCC>
+
